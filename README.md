@@ -142,7 +142,7 @@ The project uses several PostgreSQL concepts, including:
 ## Project Structure
 
 ```text
-ecommerce_sql_project/
+E-Commerce-SQL-Analysis/
 │
 ├── data/
 │   └── ecommerce.csv
